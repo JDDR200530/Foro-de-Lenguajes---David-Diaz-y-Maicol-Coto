@@ -1,0 +1,37 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.8	//
+Jugador	JuegodeFinanzas.pm	2;"	p
+new	JuegodeFinanzas.pm	6;"	s
+Jugador::new	JuegodeFinanzas.pm	6;"	s
+mostrar_estado	JuegodeFinanzas.pm	17;"	s
+Jugador::mostrar_estado	JuegodeFinanzas.pm	17;"	s
+comprar_acciones	JuegodeFinanzas.pm	28;"	s
+Jugador::comprar_acciones	JuegodeFinanzas.pm	28;"	s
+vender_acciones	JuegodeFinanzas.pm	40;"	s
+Jugador::vender_acciones	JuegodeFinanzas.pm	40;"	s
+en_bancarrota	JuegodeFinanzas.pm	54;"	s
+Jugador::en_bancarrota	JuegodeFinanzas.pm	54;"	s
+Empresa	JuegodeFinanzas.pm	60;"	p
+new	JuegodeFinanzas.pm	64;"	s
+Empresa::new	JuegodeFinanzas.pm	64;"	s
+ajustar_valor_accion	JuegodeFinanzas.pm	74;"	s
+Empresa::ajustar_valor_accion	JuegodeFinanzas.pm	74;"	s
+JuegoEconomico	JuegodeFinanzas.pm	81;"	p
+new	JuegodeFinanzas.pm	85;"	s
+JuegoEconomico::new	JuegodeFinanzas.pm	85;"	s
+iniciar	JuegodeFinanzas.pm	98;"	s
+JuegoEconomico::iniciar	JuegodeFinanzas.pm	98;"	s
+elegir_empresa	JuegodeFinanzas.pm	152;"	s
+JuegoEconomico::elegir_empresa	JuegodeFinanzas.pm	152;"	s
+evento_aleatorio	JuegodeFinanzas.pm	157;"	s
+JuegoEconomico::evento_aleatorio	JuegodeFinanzas.pm	157;"	s
+aplicar_evento	JuegodeFinanzas.pm	166;"	s
+JuegoEconomico::aplicar_evento	JuegodeFinanzas.pm	166;"	s
+preguntar_misteriosa	JuegodeFinanzas.pm	182;"	s
+JuegoEconomico::preguntar_misteriosa	JuegodeFinanzas.pm	182;"	s
+limpiar_consola	JuegodeFinanzas.pm	203;"	s
+JuegoEconomico::limpiar_consola	JuegodeFinanzas.pm	203;"	s
